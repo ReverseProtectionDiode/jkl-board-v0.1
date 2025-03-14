@@ -22,7 +22,9 @@ rows = 1
 cols = 3
 layers = 1
 keymap = [
-    ["J", "K", "L"]
+    [
+        ["J", "K", "L"]
+    ]
 ]
 
 [light]
