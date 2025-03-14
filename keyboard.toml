@@ -11,8 +11,7 @@ chip = "rp2040"
 # Input and output pins are mandatory
 matrix_type = "direct_pin"
 direct_pin_low_active = true
-direct_pins = ["PIN_7", "PIN_8", "PIN_9"]
-# output_pins = ["PIN_6"]
+direct_pins = ["PIN_6", "PIN_8", "PIN_9"]
 # WARNING: Currently row2col/col2row is set in RMK's feature gate, configs here do nothing actually
 # row2col = true
 
